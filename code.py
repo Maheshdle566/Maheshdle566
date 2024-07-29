@@ -1,0 +1,1 @@
+print("mahesh rajesj + entri")
